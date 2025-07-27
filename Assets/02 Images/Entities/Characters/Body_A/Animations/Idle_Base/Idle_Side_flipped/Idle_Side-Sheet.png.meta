@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: b7db827f2dc86ef4a80f9abd2b089843
+guid: fe72443c961036342a6092c905e27096
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -113,10 +113,10 @@ TextureImporter:
       name: Idle_Side-Sheet_0
       rect:
         serializedVersion: 2
-        x: 25
+        x: 24
         y: 16
         width: 15
-        height: 30
+        height: 29
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -134,10 +134,10 @@ TextureImporter:
       name: Idle_Side-Sheet_1
       rect:
         serializedVersion: 2
-        x: 89
+        x: 88
         y: 16
         width: 15
-        height: 29
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -155,10 +155,10 @@ TextureImporter:
       name: Idle_Side-Sheet_2
       rect:
         serializedVersion: 2
-        x: 153
+        x: 152
         y: 16
         width: 15
-        height: 28
+        height: 29
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -176,10 +176,10 @@ TextureImporter:
       name: Idle_Side-Sheet_3
       rect:
         serializedVersion: 2
-        x: 217
+        x: 216
         y: 16
         width: 15
-        height: 29
+        height: 30
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
